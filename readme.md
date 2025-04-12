@@ -5,9 +5,13 @@ The main contents of this project can be summarized as follows:
 3. The improved loss function and template update strategy enhance small UAV tracking precision.
 ***
 ## Performance
+### Quantitative Comparison
 The tracking evaluation based on the first 300 frames:
 ![Precision Plot](./precision.png)
 ![Success Plot](./success.png)
+### Qualitative Comparison
+![Frame](Qualitative_experiment./.png)
+
 ***
 ## Environment
 python=3.8
