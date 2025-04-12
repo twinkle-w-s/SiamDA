@@ -5,9 +5,17 @@ The main contents of this project can be summarized as follows:
 3. The improved loss function and template update strategy enhance small UAV tracking precision.
 ***
 ## Performance
-
+The tracking evaluation based on the first 300 frames:
+![Precision Plot](./precision.png)
+![Success Plot](./success.png)
 ***
 ## Environment
+python=3.8
+torch=1.13.1
+cuda=11.6
+torchvision=0.14.1
 ***
 ## Datasets
 ***
+[[dataset]](https://pan.baidu.com/s/1Gcvt7R6LMZSZb6gw6QMoGw?pwd=1111)
+
