@@ -7,8 +7,12 @@ The main contents of this project can be summarized as follows:
 ## Performance
 ### Quantitative Comparison
 The tracking evaluation based on the first 300 frames:
-![Precision Plot](./precision.png)
-![Success Plot](./success.png)
+<table>
+  <tr>
+    <td><img src="./precision.png" alt="Precision Plot" width="400" height="300"></td>
+    <td><img src="./success.png" alt="Success Plot" width="400" height="300"></td>
+  </tr>
+</table>
 ### Qualitative Comparison
 ![Frame](./Qualitive Experiment.png)
 
