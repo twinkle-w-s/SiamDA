@@ -27,3 +27,5 @@ torchvision=0.14.1
 ***
 [[dataset]](https://pan.baidu.com/s/1FXYFSH2O0VoqVsUqIwwcGg?pwd=1111)
 
+## Pretrained Model
+[[Link]](https://pan.baidu.com/s/1Pkf4a2KylNoxG1fmXHOkSw?pwd=1111)
