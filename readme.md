@@ -1,4 +1,4 @@
-# SiamDA:Detail-Attentive Siamese Network for Robust Infrared Small UAV Tracking
+# SiamDA: A Detail-Attentive Siamese Network with Infrared Optical Saliency for Pixel-Level UAV Tracking
 The main contents of this project can be summarized as follows:
 1. A customized Siamese network is designed for tracking infrared UAVs, showing superior accuracy in tracking small targets on a public dataset, aiding urban UAV management.
 2. A detail preservation network is developed to effectively address the issue of limited information in small UAVs and infrared target scenarios by deeply engaging with detail features.
